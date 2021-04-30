@@ -22,7 +22,7 @@ export function Footer(){
                     <li className="menu-item_footer">
                     <i className="fas fa-comment-alt footer-icon"></i>
                     <a className="menu-link_footer" href="#">
-                        <h>Contato</h><b>felipesenaux@gmail.com</b>
+                        <span>Contato</span><b>felipesenaux@gmail.com</b>
                     </a>
                     </li>
                 </ul>
