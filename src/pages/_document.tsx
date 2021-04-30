@@ -9,7 +9,7 @@ export default class MyDocument extends Document {
                     <link href="https://fonts.googleapis.com/css2?family=Montserrat&700display=swap" rel="stylesheet"/>
                     <link rel="stylesheet" href="css/style.css"/>
                     <link rel="icon" type="imagem/png" href="/icon.png"/>
-                    <title>Portfólio do Felps</title>
+                    <title>Portfólio do Felipe Sena</title>
                     <script src="https://kit.fontawesome.com/5fb634a247.js"></script>
                 </Head>
                 <body>
