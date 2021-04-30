@@ -37,13 +37,13 @@ export default function Home() {
                     <div className="cards">
                         <div className="card-1">
                             <p>“Erre cedo, aprenda rápido”.</p>
-                            <p>Uma coisa que aprendi com UX/UI é que os <h>erros são extremamente importantes para chegar em soluções!</h></p>
-                            <p>Comecei a estudar <h>UX/UI</h> e foi mais do que aprender a como usar <h>design para solucionar problemas</h>. Foi aprender sobre a vida.</p>
+                            <p>Uma coisa que aprendi com UX/UI é que os <span>erros são extremamente importantes para chegar em soluções!</span></p>
+                            <p>Comecei a estudar <span>UX/UI</span> e foi mais do que aprender a como usar <span>design para solucionar problemas</span>. Foi aprender sobre a vida.</p>
                             <p>Atualmente curso Design Gráfico junto com UX/UI. O que me rende muito aprendizado e uma rotina maluca.</p>
-                            <p><h>Procurando experiencias profissionais</h> como <h>Junior</h> para entrar no mercado de <h>UX/UI.</h></p>
+                            <p><span>Procurando experiencias profissionais</span> como <span>Junior</span> para entrar no mercado de <span>UX/UI.</span></p>
                         </div>
                         <div className="card-2">
-                            <p><b><h>UX/UI</h></b></p>
+                            <p><b><span>UX/UI</span></b></p>
                             <p><b>1 case de portfólio concluido</b></p>
                             <ul>
                                 <li><i className="fas fa-map-marker-alt"></i> Desde o desk research,</li>
@@ -57,7 +57,7 @@ export default function Home() {
                             <p>
                             Pude tirar muitos aprendizados<br/> 
                             do projeto, eu conto mais sobre ele<br/>
-                            <a href="#Trabalhos"><h>AQUI</h></a>
+                            <a href="#Trabalhos"><span>AQUI</span></a>
                             </p>
                         </div>
                     </div>
@@ -76,8 +76,8 @@ export default function Home() {
                 <div className="column-projects-2">
                     <p>
                         ESTUDO DE CASO UX/UI DESIGN<br/><br/>
-                        <b><h>Pet+: Usando a tecnologia<br/> 
-                        para unir um Pet a um Lar</h></b>
+                        <b><span>Pet+: Usando a tecnologia<br/> 
+                        para unir um Pet a um Lar</span></b>
                     </p>
                     <p>Como usei Ux Design para facilitar e<br/>
                     promover a adoção de animais de estimação.</p>

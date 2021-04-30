@@ -10,7 +10,7 @@ export default class MyDocument extends Document {
                     <link rel="stylesheet" href="css/style.css"/>
                     <link rel="icon" type="imagem/png" href="/icon.png"/>
                     <title>Portfólio do Felps</title>
-                    <script src="https://kit.fontawesome.com/5fb634a247.js" crossorigin="anonymous"></script>
+                    <script src="https://kit.fontawesome.com/5fb634a247.js"></script>
                 </Head>
                 <body>
                     <Main />
