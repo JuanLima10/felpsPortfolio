@@ -4,6 +4,8 @@
 <img style="margin: 18px;" height="380em" src="https://user-images.githubusercontent.com/69512975/117316294-d5ad5f00-ae5e-11eb-89ad-b2e1429b0312.gif"/>
 </div>
 
+</br>
+
 <div align="center"> 
 <a href="https://felpe-sena-portfolio.vercel.app/">Veja o site</a>
 </div>
@@ -17,8 +19,8 @@
 ## 🧪 Tecnologias Usadas:
 
 + Next JS
-+ CSS 3
 + TypeScript
++ CSS 3
 
 ## 🧾 Meus Contatos:
 
