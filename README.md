@@ -1,11 +1,11 @@
 ﻿# Portfólio Felipe Sena
 <div align="center"> 
-<img style="margin: 10px;" height="380em" src="https://user-images.githubusercontent.com/69512975/117315942-87985b80-ae5e-11eb-9247-d6ca885c28d0.gif"/>
-<img style="margin: 10px;" height="380em" src="https://user-images.githubusercontent.com/69512975/117316294-d5ad5f00-ae5e-11eb-89ad-b2e1429b0312.gif"/>
+<img style="margin: 18px;" height="380em" src="https://user-images.githubusercontent.com/69512975/117315942-87985b80-ae5e-11eb-9247-d6ca885c28d0.gif"/>
+<img style="margin: 18px;" height="380em" src="https://user-images.githubusercontent.com/69512975/117316294-d5ad5f00-ae5e-11eb-89ad-b2e1429b0312.gif"/>
 </div>
 
 <div align="center"> 
-<a href="https://felpe-sena-portfolio.vercel.app/"><button>Ver site</button></a>
+<a href="https://felpe-sena-portfolio.vercel.app/">Veja o site</a>
 </div>
 
 </br>
