@@ -29,7 +29,7 @@ export default function Home() {
                     <a href="/curriculoFelipeSena.pdf" download="Currículo Felipe Sena">Baixar curriculo</a>
                     <div className="sociais-buttons">
                         <a className="zoom" target="_blank" href="https://medium.com/@felipesenaUx"><img src="/social1.png"/></a>
-                        <a className="zoom" target="_blank" href="#"><img src="/social2.png" /></a>
+                        <a className="zoom" target="_blank" href="https://www.behance.net/felipesenaUX"><img src="/social2.png" /></a>
                         <a className="zoom" target="_blank" href="https://www.linkedin.com/in/felipe-sena-85a379172/"><img src="/social3.png"/></a>
                     </div>
                 </div>
